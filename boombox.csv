@@ -1,0 +1,8 @@
+Name,Enabled,EnabledLowMem,DisabledDevices,PreLoading,PreLoadingLowMem,SupportedPlatforms,SupportedPlatformsVersion,AllowedDomains,AllowedUrls,ForYouEnabled
+String,boolean,boolean,String,boolean,boolean,String,String,String,String,boolean
+Boombox,TRUE,FALSE,,FALSE,FALSE,ios,,haydaygame.com,https://www.youtube.com/embed/,FALSE
+,,,,,,android,,clashofclans.com,about:blank,
+,,,,,,win32,,googlevideo.com,,
+,,,,,,,,ytimg.com,,
+,,,,,,,,doubleclick.net,,
+,,,,,,,,gstatic.com,,
